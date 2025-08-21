@@ -1,0 +1,57 @@
+.container {
+    max-width: 400px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: "Poppins", sans-serif;
+    margin-top: 200px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    margin-top: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.login-link {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.back-arrow {
+    display: block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+}
